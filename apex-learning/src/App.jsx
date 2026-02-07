@@ -691,7 +691,7 @@ const Footer = ({ onAdminClick }) => (
                 </div>
             </div>
             <div className="mt-12 border-t border-gray-800 pt-8 flex justify-between items-center">
-                <p className="text-base text-gray-400">&copy; 2024 Apex Learning Inc. All rights reserved.</p>
+                <p className="text-base text-gray-400">&copy; 2026 Apex Learning Inc. All rights reserved.</p>
                 <button onClick={onAdminClick} className="text-xs text-gray-700 hover:text-gray-500">Admin Portal</button>
             </div>
         </div>
