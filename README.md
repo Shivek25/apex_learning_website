@@ -46,8 +46,7 @@ To run this project on your local machine, follow these steps:
 npm run dev
 
 
-View the app:
-Open http://localhost:5173 in your browser.
+#### View the app: https://apexlearningweb.netlify.app/ 
 
 ### 📄 License
 
